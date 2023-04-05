@@ -248,7 +248,7 @@ form {
 	position: relative;
 	transition: all 0.5s;
 }
-.item-billbord::after {
+.item-billbord::after { 
 	position: absolute;
 	display: block;
 	content: " ";
