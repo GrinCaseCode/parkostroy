@@ -208,7 +208,7 @@
 	}
 	.title-small {
 		font-size: 16px;
-		    letter-spacing: 0.05em;
+		letter-spacing: 0.05em;
 	}
 	.item-advantage .title-small {
 		padding-bottom: 18px;
@@ -273,42 +273,42 @@
 		min-height: 530px;
 	}
 	.item-advantage .title-small {
-    padding-bottom: 14px;
-}
-.footer, .item-portfolio, .item-advantage, .header {
-    font-size: 13px;
-    line-height: 20px;
-}
-.item-advantage {
-	margin-top: 20px;
-}
-.item-portfolio__image {
-    height: 300px;
-}
-.item-portfolio .title-small {
-	font-size: 15px;
-}
-.head-section {
-    padding-bottom: 30px;
-}
-.news {
-    padding-top: 32px;
-    padding-bottom: 22px;
-}
-.portfolio {
-    padding-top: 40px;
-    padding-bottom: 25px;
-}
-.services {
-    padding-top: 30px;
-    padding-bottom: 25px;
-}
-.item-news__image {
-    height: 230px;
-}
-.footer__content {
-	display: none;
-}
+		padding-bottom: 14px;
+	}
+	.footer, .item-portfolio, .item-advantage, .header {
+		font-size: 13px;
+		line-height: 20px;
+	}
+	.item-advantage {
+		margin-top: 20px;
+	}
+	.item-portfolio__image {
+		height: 300px;
+	}
+	.item-portfolio .title-small {
+		font-size: 15px;
+	}
+	.head-section {
+		padding-bottom: 30px;
+	}
+	.news {
+		padding-top: 32px;
+		padding-bottom: 22px;
+	}
+	.portfolio {
+		padding-top: 40px;
+		padding-bottom: 25px;
+	}
+	.services {
+		padding-top: 30px;
+		padding-bottom: 25px;
+	}
+	.item-news__image {
+		height: 230px;
+	}
+	.footer__content {
+		display: none;
+	}
 	.header__wrapper .phone-main {
 		font-size: 0;
 		line-height: 0;
@@ -322,12 +322,12 @@
 		margin-right: 30px;
 	}
 	.header__contacts .line-contacts {
-    margin-bottom: 0;
-}
-.sandwich {
-	display: flex;
-}
-.footer__nav_big a, .footer__title {
+		margin-bottom: 0;
+	}
+	.sandwich {
+		display: flex;
+	}
+	.footer__nav_big a, .footer__title {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
@@ -339,120 +339,123 @@
 		margin: 0;
 	}
 	.footer .line-contacts {
-    margin-bottom: 12px;
-}
-.footer__contacts {
-	padding-top: 20px;
-}
-.footer-bottom {
-	text-align: center;
-}
-.footer-bottom .row > div {
-	padding-top: 7px;
-	padding-bottom: 7px;
-}
-.create {
-	justify-content: center;
-}
-.btn_top {
-	float: none;
-}
-.footer__title i {
-	display: inline-block;
-	transition: all 0.3s;
-}
-.footer__title.active i {
-	transform: rotate(180deg);
-}
-.footer .logo img {
-    width: 140px;
-}
-.menu-mobile {
-  width: 100%;
-  top: 100%;
-  left: 0;
-  height: 100vh;
-  padding: 15px 15px;
-  padding-bottom: 120px;
- display: none;
-  overflow: auto;
-  background-color: #fff;
-  position: absolute;
-}
-.menu a {
-  margin: 0;
-  padding: 10px;
-  display: block;
-  position: relative;
-  border-bottom: 1px solid #807F7D;
-}
-.menu-mobile .menu {
-  display: block;
-  margin: 0;
-}
-.menu-mobile .header__contacts {
-	padding-top: 25px;
-	align-items: flex-start;
-}
-.menu-mobile .header__contacts .line-contacts {
-    margin-bottom: 9px;
-}
+		margin-bottom: 12px;
+	}
+	.footer__contacts {
+		padding-top: 20px;
+	}
+	.footer-bottom {
+		text-align: center;
+	}
+	.footer-bottom .row > div {
+		padding-top: 7px;
+		padding-bottom: 7px;
+	}
+	.create {
+		justify-content: center;
+	}
+	.btn_top {
+		float: none;
+	}
+	.footer__title i {
+		display: inline-block;
+		transition: all 0.3s;
+	}
+	.footer__title.active i {
+		transform: rotate(180deg);
+	}
+	.footer .logo img {
+		width: 140px;
+	}
+	.menu-mobile {
+		width: 100%;
+		top: 100%;
+		left: 0;
+		height: 100vh;
+		padding: 15px 15px;
+		padding-bottom: 120px;
+		display: none;
+		overflow: auto;
+		background-color: #fff;
+		position: absolute;
+	}
+	.menu a {
+		margin: 0;
+		padding: 10px;
+		display: block;
+		position: relative;
+		border-bottom: 1px solid #807F7D;
+	}
+	.menu-mobile .menu {
+		display: block;
+		margin: 0;
+	}
+	.menu-mobile .header__contacts {
+		padding-top: 25px;
+		align-items: flex-start;
+	}
+	.menu-mobile .header__contacts .line-contacts {
+		margin-bottom: 9px;
+	}
 }
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-.title-big {
-    font-size: 35px;
-    line-height: 47px;
-}
-.descr-big {
-    font-size: 16px;
-    line-height: 24px;
-}
-.advantages {
-	padding-top: 20px;
-}
-.title-section {
-    font-size: 29px;
-    line-height: 36px;
-}
+	.title-big {
+		font-size: 35px;
+		line-height: 47px;
+	}
+	.descr-big {
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.advantages {
+		padding-top: 20px;
+	}
+	.title-section {
+		font-size: 29px;
+		line-height: 36px;
+	}
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-.title-big {
-    font-size: 28px;
-    line-height: 36px;
-    letter-spacing: 0.05em;
-}
-.title-section {
-    font-size: 25px;
-    line-height: 32px;
-}
-.btn-simple {
-    font-size: 13px;
-    line-height: 15px;
-    letter-spacing: 0.03em;
-    padding: 5px 14px;
-}
-.item-service, .image-service {
-    height: 270px;
-}
-.item-portfolio__image {
-    height: 240px;
-}
-.features-wrapper {
-	display: block;
-}
-.item-news__image {
-    height: 200px;
-}
-.head-section {
-	display: block;
-}
-.head-section .btn-simple {
-	margin-top: 15px;
-}
+	.title-big {
+		font-size: 28px;
+		line-height: 36px;
+		letter-spacing: 0.05em;
+	}
+	.title-section {
+		font-size: 25px;
+		line-height: 32px;
+	}
+	.btn-simple {
+		font-size: 13px;
+		line-height: 15px;
+		letter-spacing: 0.03em;
+		padding: 5px 14px;
+	}
+	.item-service, .image-service {
+		height: 270px;
+	}
+	.item-portfolio__image {
+		height: 240px;
+	}
+	.features-wrapper {
+		display: block;
+	}
+	.item-news__image {
+		height: 200px;
+	}
+	.head-section {
+		display: block;
+	}
+	.head-section .btn-simple {
+		margin-top: 15px;
+	}
+	.advantages {
+		padding-bottom: 30px;
+	}
 }
 
 /* Custom, iPhone Retina */
@@ -480,12 +483,12 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
-.footer__content {
-	display: block !important;
-}
-.menu-mobile {
-	display: none !important;
-}
+	.footer__content {
+		display: block !important;
+	}
+	.menu-mobile {
+		display: none !important;
+	}
 }
 
 /* Large Devices, Wide Screens */
