@@ -75,6 +75,7 @@ if ( $(this).scrollTop() > 0 && $menu.hasClass("default") ){
 			breakpoint: 992,
 			settings: {
 				slidesToShow: 1,
+				autoplay: false,
 			}
 		}
 		]
