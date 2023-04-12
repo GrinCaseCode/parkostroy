@@ -629,6 +629,13 @@
 		border-radius: 10px;
 		background-color: #3F5E29;
 	}
+	.footer-bottom {
+		margin-top: 25px;
+	}
+	.page-service .title-small {
+		padding-top: 10px;
+		padding-bottom: 12px;
+	}
 }
 
 /* Small Devices, Tablets */
