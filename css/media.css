@@ -740,6 +740,11 @@
 	.item-catalog {
 		height: 265px;
 	}
+	.tabs a {
+		padding: 13px 17px;
+		font-size: 14px;
+		line-height: 19px;
+	}
 }
 
 /* Custom, iPhone Retina */
